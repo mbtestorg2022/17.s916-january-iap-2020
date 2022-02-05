@@ -31,26 +31,273 @@ Through this course, students will:
 Grading Policy
 --------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-|  {{< br >}}{{< br >}} Two memos (2–3 pages each) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 50% {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} Oral presentation {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 15% {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} Class participation {{< br >}}{{< br >}} _All students are expected to read assigned readings closely and participate regularly in seminar discussion. Students should share their questions and thoughts in class and respond to those of other students. Students are also encouraged to bring current events into discussion._ {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 35% {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Two memos (2–3 pages each)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+50%
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Oral presentation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+15%
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Class participation
+
+_All students are expected to read assigned readings closely and participate regularly in seminar discussion. Students should share their questions and thoughts in class and respond to those of other students. Students are also encouraged to bring current events into discussion._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+35%
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For detail on the memos and the oral presentation, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
 
 Calendar
 --------
 
-| SESS # | TOPICS | DUE DATES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}} {{< br >}}{{< br >}} **Part I: Intro to the Problem of Civil-Military Relations** {{< br >}}{{< br >}} {{< /td-colspan >}} |||
-|  {{< br >}}{{< br >}} 1 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Why Do Civil-Military Relations Matter? Democracy and Foreign Policy {{< br >}}{{< br >}}  | &nbsp; |
-| {{< td-colspan 3 >}} {{< br >}}{{< br >}} **Part II: Military and Politics** {{< br >}}{{< br >}} {{< /td-colspan >}} |||
-|  {{< br >}}{{< br >}} 2 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Causes of “Healthy” and “Unhealthy” Civil-Military Relations {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 3 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Consequences of Military Rule {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 4 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} When Civilians Politicize the Military {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Memo #1 due {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}} {{< br >}}{{< br >}} **Part III: Interaction between Military and Society** {{< br >}}{{< br >}} {{< /td-colspan >}} |||
-|  {{< br >}}{{< br >}} 5 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} The Debate over Who Can/Should Serve {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 6 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} The Public’s View of the Military {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 7 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} The Future of the Military-Industrial-Tech Complex {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Memo #2 due {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SESS #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+DUE DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+
+
+**Part I: Intro to the Problem of Civil-Military Relations**
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+1
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Why Do Civil-Military Relations Matter? Democracy and Foreign Policy
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+
+
+**Part II: Military and Politics**
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+2
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Causes of “Healthy” and “Unhealthy” Civil-Military Relations
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+3
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Consequences of Military Rule
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+4
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+When Civilians Politicize the Military
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Memo #1 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+
+
+**Part III: Interaction between Military and Society**
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+5
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The Debate over Who Can/Should Serve
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+6
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The Public’s View of the Military
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+7
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The Future of the Military-Industrial-Tech Complex
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Memo #2 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
