@@ -56,7 +56,7 @@ Hussain, Shaiq. “[Pakistan’s Former Military Ruler Pervez Musharraf is Sente
 
 [U.S. Constitution, Article II](https://www.law.cornell.edu/constitution/articleii). Legal Information Institute, Cornell Law School.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[War Powers Resolution (PDF - 1.1MB)](https://www.govinfo.gov/content/pkg/STATUTE-87/pdf/STATUTE-87-Pg555.pdf). United States Congress.
+[War Powers Resolution (PDF - 1.1MB)](https://www.govinfo.gov/content/pkg/STATUTE-87/pdf/STATUTE-87-Pg555.pdf). United States Congress.
 
 Brooks, Risa. “[What Should U.S. Military Leaders Do if the President Provokes a Major International Crisis?](https://www.washingtonpost.com/news/monkey-cage/wp/2017/02/16/what-should-u-s-military-leaders-do-if-the-president-provokes-a-major-international-crisis/),” _Washington Post_, February 16, 2017.
 
@@ -170,9 +170,9 @@ When Civilians Politicize the Military
 {{< tdopen >}}
 
 
-Quinlivan, James T. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Coup-Proofing: Its Practice and Consequences in the Middle East” (PDF)](https://www.mitpressjournals.org/doi/pdf/10.1162/016228899560202?casa_token=OfIP96HAD1EAAAAA:OFkHgyiaHo_ohRyK_q0ASakLun_MVUVf7X6-azpxZjlryWT0S67O8th7NRSAr8lQ1Jj2agnu8LJy). _International Security_ 24, no. 2 (1999): 131–65. (Focus on pp. 132–34.)
+Quinlivan, James T. [“Coup-Proofing: Its Practice and Consequences in the Middle East” (PDF)](https://www.mitpressjournals.org/doi/pdf/10.1162/016228899560202?casa_token=OfIP96HAD1EAAAAA:OFkHgyiaHo_ohRyK_q0ASakLun_MVUVf7X6-azpxZjlryWT0S67O8th7NRSAr8lQ1Jj2agnu8LJy). _International Security_ 24, no. 2 (1999): 131–65. (Focus on pp. 132–34.)
 
-Talmadge, Caitlin. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Different Threats, Different Militaries: Explaining Organizational Practices in Authoritarian Armies” (PDF)](http://www.caitlintalmadge.com/uploads/8/5/4/1/85419560/different_threats_different_militaries_explaining_organizational_practices_in_authoritarian_armies.pdf). _Security Studies_ 25, no. 1 (2016): 111-41.
+Talmadge, Caitlin. [“Different Threats, Different Militaries: Explaining Organizational Practices in Authoritarian Armies” (PDF)](http://www.caitlintalmadge.com/uploads/8/5/4/1/85419560/different_threats_different_militaries_explaining_organizational_practices_in_authoritarian_armies.pdf). _Security Studies_ 25, no. 1 (2016): 111-41.
 
 De Bruin, Erica. “[Preventing Coups D’état: How Counterbalancing Works](https://journals.sagepub.com/doi/full/10.1177/0022002717692652).” _Journal of Conflict Resolution_ 62, no. 7 (2018): 1433-58.
 
@@ -214,11 +214,11 @@ The Debate over Who Can/Should Serve
 {{< tdopen >}}
 
 
-Janowitz, Morris. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)“Military Institutions and Citizenship in Western Societies” (PDF - 1.9MB)](https://journals.sagepub.com/doi/pdf/10.1177/0095327X7600200202). _Armed Forces & Society_ 2, no. 2 (1976): 185–93.
+Janowitz, Morris. [“Military Institutions and Citizenship in Western Societies” (PDF - 1.9MB)](https://journals.sagepub.com/doi/pdf/10.1177/0095327X7600200202). _Armed Forces & Society_ 2, no. 2 (1976): 185–93.
 
 Krebs, Ronald R. “[A School for the Nation? How Military Service Does Not Build Nations, and How It Might](https://www.researchgate.net/publication/240678264_A_School_for_the_Nation_How_Military_Service_Does_Not_Build_Nations_and_How_It_Might).” _International Security_ 28, no. 4 (2004): 85–124. (Focus on pp. 90–115.)
 
-Kier, Elizabeth. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)“Homosexuals in the US Military: Open Integration and Combat Effectiveness” (PDF - 2.1MB)](https://www.mitpressjournals.org/doi/pdf/10.1162/isec.23.2.5). _International Security_ 23, no. 2 (1998): 5–39.
+Kier, Elizabeth. [“Homosexuals in the US Military: Open Integration and Combat Effectiveness” (PDF - 2.1MB)](https://www.mitpressjournals.org/doi/pdf/10.1162/isec.23.2.5). _International Security_ 23, no. 2 (1998): 5–39.
 
 _Recommended:_
 
@@ -264,11 +264,11 @@ Skim the following polls on trust in the military globally. For your second memo
     *   Saad, Lydia. “[Military, Small Business, Police Still Stir Most Confidence](https://news.gallup.com/poll/236243/military-small-business-police-stir-confidence.aspx).” Gallup, June 28, 2018.
     *   “[Military and National Defense](https://news.gallup.com/poll/1666/military-national-defense.aspx).” Gallup. 
 *   _Latin America_: LAPOP America's Barometer
-    *   [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)“Statistical Compendium 2018/2019” (PDF - 1.6MB)](https://www.vanderbilt.edu/lapop/ab2018/Statistical_Compendium_2018-19_W_10.22.19.pdf). (Note: the PDF findings are in Spanish, but the findings for trust in the Armed Forces in 2018/2019 can be found on page 54 under variable B12, “Confianza en las Fuerzas Armadas.” The options for respondents on the left column go from “Nada” (or nothing) to “Mucho” (or a lot). “No sabe” is “Don’t know,” “No responde” is “Refused to respond.”)
+    *   [“Statistical Compendium 2018/2019” (PDF - 1.6MB)](https://www.vanderbilt.edu/lapop/ab2018/Statistical_Compendium_2018-19_W_10.22.19.pdf). (Note: the PDF findings are in Spanish, but the findings for trust in the Armed Forces in 2018/2019 can be found on page 54 under variable B12, “Confianza en las Fuerzas Armadas.” The options for respondents on the left column go from “Nada” (or nothing) to “Mucho” (or a lot). “No sabe” is “Don’t know,” “No responde” is “Refused to respond.”)
 *   _Africa_: Afro Barometer
     *   [The Online Data Analysis Tool](https://afrobarometer.org/online-data-analysis/analyse-online). (Select a survey > Select all (countries) > See results > “Institutions and Leaders” > “Trust in Army.”)
 *   _Asia_: Asian Barometer
-    *   Chu, Yun-han, Yu-tzung Chang, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Re-assessing the Popular Foundation of Asian Democracies: Findings from Four Waves of the Asian Barometer Survey” (PDF)](http://asianbarometer.org/publications/b15620cf8549caa8a6cc4da5d481c42f.pdf). Global Barometer Working Paper Series, No. 120. Asian Barometer. (See “Figure 11: The Army (Military) Should Come In to Govern the Country.”)
+    *   Chu, Yun-han, Yu-tzung Chang, et al. [“Re-assessing the Popular Foundation of Asian Democracies: Findings from Four Waves of the Asian Barometer Survey” (PDF)](http://asianbarometer.org/publications/b15620cf8549caa8a6cc4da5d481c42f.pdf). Global Barometer Working Paper Series, No. 120. Asian Barometer. (See “Figure 11: The Army (Military) Should Come In to Govern the Country.”)
     *   If you want more detailed survey data, you should apply directly to the Asian Barometer to ask them to send you the data. Find the application process [here](http://www.asianbarometer.org/data/data-release).
 *   _Europe_: Eurobarometer
     *   Browse the findings of the variable “Trust in Institutions: Army” over the different years of the survey [here](https://www.icpsr.umich.edu/web/ICPSR/series/26/variables?q=army).
