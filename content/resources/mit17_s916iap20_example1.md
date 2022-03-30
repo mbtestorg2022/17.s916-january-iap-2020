@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/17-s916-all-the-presidents-generals-civil-military-relations-in-the-us-and-beyond-january-iap-2020/52d5b219d2b31aebabee1aa5ec4d504c_MIT17_S916IAP20_Example1.pdf
 file_type: application/pdf
+parent_uid: d9bdd530-8a3e-680a-72ee-4587b2c8dde3
 resourcetype: Document
 title: "Assignments: First Memo Student Example, The Likelihood of a Military Coup\
   \ in the People\u2019s Republic of China"
